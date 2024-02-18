@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #87CEEB; /* Sky Blue */
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -39,7 +39,7 @@ ul {
 }
 
 footer {
-    background-color: #333;
+    background-color: #87CEEB; /* Sky Blue */
     color: #fff;
     text-align: center;
     padding: 10px;
